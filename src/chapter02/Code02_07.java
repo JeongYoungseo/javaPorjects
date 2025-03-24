@@ -19,3 +19,4 @@ public class Code02_07 {
         System.out.printf("%d / %d = %d\n", num1, num2, result);
     }
 }
+
