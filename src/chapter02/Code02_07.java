@@ -1,6 +1,6 @@
 package chapter02;
 
-public class Code03_07 {
+public class Code02_07 {
     public static void main(String[] args) {
         int num1, num2, result;
         num1 = 100;
