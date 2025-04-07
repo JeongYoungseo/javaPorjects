@@ -2,7 +2,7 @@ package chapter02;
 
 import java.util.Scanner;
 
-public class Lab2 {
+public class Lab02 {
     public static void main(String[] args) {
         System.out.println("\n\n\n   단순 계산기   \n\n\n");
         Scanner s = new Scanner(System.in);
