@@ -2,7 +2,7 @@ package chapter03;
 
 import java.util.Scanner;
 
-public class Code03_lab {
+public class Code03Lab {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         double pound = 0.453592;
